@@ -1,0 +1,14 @@
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\bin\Release\WPF_Architecture.exe.config
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\bin\Release\WPF_Architecture.exe
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\bin\Release\WPF_Architecture.pdb
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture_MVVM.csprojAssemblyReference.cache
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\MainWindowView.baml
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\MainWindowView.g.cs
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\App.g.cs
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture_MarkupCompile.cache
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture.g.resources
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture.Properties.Resources.resources
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture_MVVM.csproj.GenerateResource.cache
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture.exe
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Architecture\obj\Release\WPF_Architecture.pdb

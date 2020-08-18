@@ -1,0 +1,6 @@
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Custom\obj\Debug\WPF_Architecture_Custom.csprojAssemblyReference.cache
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Custom\obj\Debug\App.g.cs
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Custom\obj\Debug\MainWindowView.g.cs
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Custom\obj\Debug\WPF_Custom_MarkupCompile.cache
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Custom\obj\Debug\WPF_Custom_MarkupCompile.lref
+C:\Users\Georg\source\repos\WPF_Architecture\WPF_Custom\obj\Debug\App.baml
